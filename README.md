@@ -1,2 +1,2 @@
 # cache
-an API to store and retrieve document from cache
+an API to store and retrieve document in certain format
